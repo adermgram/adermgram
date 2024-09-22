@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning web3 and i'm looking to collaborate on any frontend, or backend project
+I'm currently learning AI/ML and  web3 and i'm looking to collaborate on any frontend, or backend project
 
 
 ## 🌐 Socials:
