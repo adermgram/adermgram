@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently learning AI/ML and Golang and i'm looking to collaborate on any frontend, backend or ML project
+I'm currently learning AI/ML and Web3 and i'm looking to collaborate on any frontend, backend or ML project
 
 
 ## 🌐 Socials:
