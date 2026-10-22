@@ -45,11 +45,11 @@ I build **backend systems and AI-powered products**: secure APIs in Java/Spring 
 
 | | |
 |---|---|
-| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,flask,nodejs,express&theme=dark" alt="Backend" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,nodejs,express&theme=dark" alt="Backend" /> |
 | **Data** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark" alt="Data" /> |
-| **AI / ML** | RAG · pgvector · scikit-learn · LLM APIs (Groq, OpenAI) |
+| **AI / ML** | ![RAG](https://img.shields.io/badge/RAG-24c6dc?style=for-the-badge&logoColor=white) ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=for-the-badge&logo=postgresql&logoColor=white) ![LLM APIs](https://img.shields.io/badge/LLM%20APIs-412991?style=for-the-badge&logo=openai&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white) |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind&theme=dark" alt="Frontend" /> |
-| **Games** | <img src="https://skillicons.dev/icons?i=cpp,py&theme=dark" alt="Games" /> raylib · pygame |
+| **Games** | <img src="https://skillicons.dev/icons?i=cpp,py&theme=dark" alt="Games" /><br/>![raylib](https://img.shields.io/badge/raylib-000000?style=for-the-badge&logo=raylib&logoColor=white) ![pygame](https://img.shields.io/badge/pygame-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 
 </div>
 
