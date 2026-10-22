@@ -8,7 +8,6 @@
 
 <br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=adermgram&label=Profile%20views&color=302b63&style=for-the-badge)
 [![Followers](https://img.shields.io/github/followers/adermgram?label=Followers&style=for-the-badge&logo=github&color=24c6dc&labelColor=0f0c29)](https://github.com/adermgram?tab=followers)
 [![Email](https://img.shields.io/badge/Email-Contact%20me-302b63?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamidrisadam004@gmail.com)
 
