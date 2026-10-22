@@ -142,6 +142,9 @@ const adam = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-adermgram-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/adermgram)
 [![Gmail](https://img.shields.io/badge/Gmail-adamidrisadam004-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adamidrisadam004@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-adam--idris--adam-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/adam-idris-adam)
+[![X](https://img.shields.io/badge/X-@adermgram-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adermgram)
+[![Instagram](https://img.shields.io/badge/Instagram-adermgram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adermgram/)
 
 *Got an idea or a problem worth solving? Reach out. I'm always up for building something.*
 
