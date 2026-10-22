@@ -16,23 +16,16 @@
 
 ---
 
-## 👨‍💻 About me
+## 👋 About
 
-```js
-const adam = {
-  name: "Adam Idris",
-  username: "adermgram",
-  focus: ["Backend engineering", "AI-powered products", "Games (for fun)"],
-  currentlyBuilding: ["RAG systems", "APIs that scale", "ML for real-world problems"],
-  lookingFor: "Collaborators, ideas worth building, and good problems",
-  funFact: "I build games in my free time",
-};
-```
+I build **backend systems and AI-powered products**: APIs, data pipelines and RAG apps that work on real data, for real users. I ship end to end, from the database to the deployed demo. When I'm not doing that, I'm building games.
 
-- 🔭 Building: **backend systems and AI-powered products**
-- 🧠 Recently shipped: **a RAG study assistant, a fraud-detection model, a recycling-rewards platform**
-- 🎮 Free time: **C++ and Python games**
-- ⚡ Philosophy: *build → ship → learn → repeat*
+|  |  |
+|---|---|
+| 🧠 **Focus** | Backend engineering, RAG and applied ML |
+| 🚢 **Recently shipped** | A RAG study assistant, a fraud-detection model, a recycling-rewards platform |
+| 🎮 **On the side** | Games in C++ and Python |
+| 🤝 **Open to** | Backend and AI-product work, collaborations |
 
 ### 🔨 Now building
 
@@ -50,38 +43,13 @@ const adam = {
 
 <div align="center">
 
-**Backend & Data**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
-
-**AI / ML**
-
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![pgvector](https://img.shields.io/badge/RAG%20%2B%20pgvector-302b63?style=for-the-badge)
-
-**Frontend**
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-
-**Games & Tools**
-
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Raylib](https://img.shields.io/badge/raylib-000000?style=for-the-badge&logo=raylib&logoColor=white)
-![Pygame](https://img.shields.io/badge/pygame-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude%20Code-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+| | |
+|---|---|
+| **Backend** | <img src="https://skillicons.dev/icons?i=py,fastapi,flask,nodejs,express&theme=dark" alt="Backend" /> |
+| **Data** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark" alt="Data" /> |
+| **AI / ML** | RAG · pgvector · scikit-learn · LLM APIs (Groq, OpenAI) |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind&theme=dark" alt="Frontend" /> |
+| **Games** | <img src="https://skillicons.dev/icons?i=cpp,py&theme=dark" alt="Games" /> raylib · pygame |
 
 </div>
 
