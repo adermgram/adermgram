@@ -18,11 +18,11 @@
 
 ## 👋 About
 
-I build **backend systems and AI-powered products**: APIs, data pipelines and RAG apps that work on real data, for real users. I ship end to end, from the database to the deployed demo. When I'm not doing that, I'm building games.
+I build **backend systems and AI-powered products**: secure APIs in Java/Spring Boot and Python, plus RAG apps and ML models that work on real data, for real users. I ship end to end, from the database to the deployed demo. When I'm not doing that, I'm building games.
 
 |  |  |
 |---|---|
-| 🧠 **Focus** | Backend engineering, RAG and applied ML |
+| 🧠 **Focus** | Backend engineering (Java/Spring Boot, Python), RAG and applied ML |
 | 🚢 **Recently shipped** | A RAG study assistant, a fraud-detection model, a recycling-rewards platform |
 | 🎮 **On the side** | Games in C++ and Python |
 | 🤝 **Open to** | Backend and AI-product work, collaborations |
@@ -86,6 +86,7 @@ I build **backend systems and AI-powered products**: APIs, data pipelines and RA
 
 | Project | What it is | Stack |
 |---|---|---|
+| 🔐 [**docvault**](https://github.com/adermgram/docvault) | Secure document management API: JWT auth, role-based access, validated uploads (Tika), pagination and search, 18 unit tests | Java, Spring Boot, Spring Security, JPA, PostgreSQL |
 | 🤖 [**smart-study-bot**](https://github.com/adermgram/smart-study-bot) · [demo](https://smart-study-bot-five.vercel.app) | RAG study assistant that answers only from lecturer-uploaded material, with anonymized weak-topic insights for lecturers | FastAPI, Postgres + pgvector, Next.js |
 | ♻️ [**scan-cycle**](https://github.com/adermgram/scan-cycle) | Recycling rewards platform: QR scans, points, leaderboard, coupons, SMS alerts, admin dashboard | React, Node/Express, MongoDB |
 | 🛡️ [**fraud-detection**](https://github.com/adermgram/fraud-detection) | Transaction fraud scoring tuned for Nigerian banking channels, with a staff review workflow | Flask, scikit-learn |
