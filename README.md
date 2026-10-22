@@ -45,7 +45,7 @@ I build **backend systems and AI-powered products**: APIs, data pipelines and RA
 
 | | |
 |---|---|
-| **Backend** | <img src="https://skillicons.dev/icons?i=py,fastapi,flask,nodejs,express&theme=dark" alt="Backend" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=java,spring,py,fastapi,flask,nodejs,express&theme=dark" alt="Backend" /> |
 | **Data** | <img src="https://skillicons.dev/icons?i=postgres,mongodb,supabase&theme=dark" alt="Data" /> |
 | **AI / ML** | RAG · pgvector · scikit-learn · LLM APIs (Groq, OpenAI) |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=ts,nextjs,react,tailwind&theme=dark" alt="Frontend" /> |
