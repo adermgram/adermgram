@@ -34,6 +34,16 @@ const adam = {
 - 🎮 Free time: **C++ and Python games**
 - ⚡ Philosophy: *build → ship → learn → repeat*
 
+### 🔨 Now building
+
+- 📄 **[Dockly](https://github.com/adermgram/dockly)**: turn your documents into AI chatbots ([live](https://dockly-bay.vercel.app))
+- 🏦 **[bank-api](https://github.com/adermgram/bank-api)**: FastAPI banking backend (JWT auth, Alembic, repository-service architecture), with transfers and tests next
+
+### 🕒 Latest activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 ---
 
 ## 🛠️ Tech Stack
@@ -106,18 +116,6 @@ const adam = {
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-[![smart-study-bot](https://github-readme-stats.vercel.app/api/pin/?username=adermgram&repo=smart-study-bot&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc)](https://github.com/adermgram/smart-study-bot)
-[![scan-cycle](https://github-readme-stats.vercel.app/api/pin/?username=adermgram&repo=scan-cycle&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc)](https://github.com/adermgram/scan-cycle)
-
-[![fraud-detection](https://github-readme-stats.vercel.app/api/pin/?username=adermgram&repo=fraud-detection&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc)](https://github.com/adermgram/fraud-detection)
-[![Tetris-game](https://github-readme-stats.vercel.app/api/pin/?username=adermgram&repo=Tetris-game&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc)](https://github.com/adermgram/Tetris-game)
-
-[![twin-stick-drift](https://github-readme-stats.vercel.app/api/pin/?username=adermgram&repo=twin-stick-drift&theme=tokyonight&hide_border=true&bg_color=0f0c29&title_color=24c6dc)](https://github.com/adermgram/twin-stick-drift)
-
-</div>
-
 | Project | What it is | Stack |
 |---|---|---|
 | 🤖 [**smart-study-bot**](https://github.com/adermgram/smart-study-bot) · [demo](https://smart-study-bot-five.vercel.app) | RAG study assistant that answers only from lecturer-uploaded material, with anonymized weak-topic insights for lecturers | FastAPI, Postgres + pgvector, Next.js |
@@ -125,6 +123,23 @@ const adam = {
 | 🛡️ [**fraud-detection**](https://github.com/adermgram/fraud-detection) | Transaction fraud scoring tuned for Nigerian banking channels, with a staff review workflow | Flask, scikit-learn |
 | 🎮 [**Tetris-game**](https://github.com/adermgram/Tetris-game) | Tetris clone, ⭐ 27 stars | C++, raylib, CMake |
 | 🕹️ [**twin-stick-drift**](https://github.com/adermgram/twin-stick-drift) | Neon arena shooter with controller rumble and fully procedural audio | Python, pygame |
+
+### 🧩 How smart-study-bot works
+
+```mermaid
+flowchart LR
+    L[Lecturer uploads course material] --> I[Ingestion service]
+    I -->|chunks + embeddings| V[(Postgres + pgvector)]
+    S[Student question] --> R[RAG retrieval]
+    V --> R
+    R -->|grounded context| G[Groq LLM]
+    G --> A[Answer from course material only]
+    G --> Q[Quiz generation]
+    G --> T[Topic tagging]
+    T --> D[Anonymized lecturer dashboard]
+```
+
+*FastAPI backend on Render, Next.js frontend on Vercel, OpenAI embeddings, Groq for chat, quizzes and tagging.*
 
 ---
 
@@ -138,7 +153,9 @@ const adam = {
 [![X](https://img.shields.io/badge/X-@adermgram-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/adermgram)
 [![Instagram](https://img.shields.io/badge/Instagram-adermgram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adermgram/)
 
-*Got an idea or a problem worth solving? Reach out. I'm always up for building something.*
+**Open to:** backend and AI-product work, collaborations, and building something worth shipping.
+
+*Got an idea or a problem worth solving? Reach out.*
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24c6dc,50:302b63,100:0f0c29&height=120&section=footer" width="100%" alt="footer" />
 
